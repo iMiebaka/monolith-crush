@@ -5,4 +5,3 @@ npm run build
 mv dist ../back-end
 cd ../back-end
 npm i
-npm start
